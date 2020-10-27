@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533253651548",
+    "firebase_url": "https://fir-ed797.firebaseio.com",
+    "project_id": "fir-ed797",
+    "storage_bucket": "fir-ed797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533253651548:android:b77957bd11652ddcf9fa99",
+        "android_client_info": {
+          "package_name": "mn.amazon.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533253651548-dct46c3e07u9egancla1oa3miqcata5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4INr8P9_aJKDgwsO9Phb3QFmOzcQgHLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533253651548-dct46c3e07u9egancla1oa3miqcata5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
